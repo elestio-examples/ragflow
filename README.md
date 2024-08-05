@@ -10,11 +10,11 @@ Deploy RAGFlow with CI/CD on Elestio
 
 # Once deployed ...
 
+For your first connection, you must first create a user
+
 You can open RAGFlow UI here:
 
     URL: https://[CI_CD_DOMAIN]
-    email: [ADMIN_EMAIL]
-    password: [ADMIN_PASSWORD]
 
 You can open PHPMyAdmin here:
 
