@@ -1,6 +1,7 @@
 # RAGFlow CI/CD pipeline
 
-<a href="https://dash.elest.io/deploy?source=cicd&social=dockerCompose&url=https://github.com/elestio-examples/ragflow"><img src="deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
+[<img alt="Deploy to Elestio" src="https://elest.io/images/logos/deploy-to-elestio-btn.png" height="40">](https://dash.elest.io/deploy?source=cicd&social=dockerCompose&url=https://github.com/elestio-examples/ragflow)
+
 
 Deploy RAGFlow with CI/CD on Elestio
 
